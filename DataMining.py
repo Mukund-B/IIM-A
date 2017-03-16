@@ -65,6 +65,22 @@ def getTitle(URL):
     title = soup.find('h1',attrs={'class':'b_42'})
     return title.text
 
+def getSector(URL):
+    try:
+        r = requests.get(URL)
+        r.raise_for_status()
+    except:
+        print "Cannot find link"
+        return
+    soup = BeautifulSoup(r.text, 'html.parser')
+    crumbs = soup.findAll('span',attrs={'typeof':'v:Breadcrumb'})
+    for crumb in crumbs:
+        c = crumb.find('a')
+        if 'sector' in c.get('href'):
+            return c.text.split('-')[0].strip().lower()
+    return ''
+
+
 def getID(dir):
     r = dict()
     for f in os.listdir(dir):
@@ -143,32 +159,6 @@ labelsBS = {'Equity Share Capital':None,
             'Total Non-Current Liabilities':None,
             'Total Assets':None}
 
-def getNews(ID):
-    keys = ID.keys()
-    years = range(2010,2016)
-    data = []
-    for key in keys:
-        print key
-        lt = []
-        if len(key)<3:
-           continue
-        url = getBaseURL(key)
-        title = getTitle(url)
-        print title
-        if title==None:
-            continue
-        for year in years:
-            tBegin = '1%2F1%2F'+str(year)
-            tEnd = '12%2F31%2F'+str(year)
-            url = """https://www.google.co.in/search?
-            q={}&hl=en&gl=in&authuser=0&biw=1366&bih=633&source=lnt&
-            tbs=cdr%3A1%2Ccd_min%3A{}%2Ccd_max%3A{}&
-            tbm=nws""".format(title.replace(' ','+'),tBegin,tEnd)
-            page = requests.get(url)
-            
-            lt.append()
-
-
 def mine(ID):
     keys = ID.keys()
     print "Starting Financial Data Mining"
@@ -192,3 +182,28 @@ def mine(ID):
         data.to_csv(ID[key]+'.csv')
     print "Done"
     os.chdir('..')
+
+def getInfo(ID):
+    keys = ID.keys()
+    os.chdir('Annual Data')
+    data = list()
+    for key in keys:
+        print key
+        lt = list()
+        if len(key)<3:
+            continue
+        b = getBaseURL(key)
+        lt.append(ID[key])
+        try:
+            lt.append(getSector(b))
+        except:
+            lt.append(None)
+        try:
+            lt.append(getTitle(b))
+        except:
+            lt.append(None)
+        data.append(lt)
+    os.chdir('..')
+    data = pd.DataFrame(data,columns = ['ID','Sector','Company'])
+    data.to_csv('Sector.csv')
+    print "Done"

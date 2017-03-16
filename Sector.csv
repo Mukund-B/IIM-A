@@ -1,186 +1,183 @@
-,Sector 1,Company,ID
-0,Computers,3IINFOTECH,532628.0
-1,Infrastructure,ABB,500002.0
-2,Shipping,ABGSHIP,532682.0
-3,Cement,ACC,500410.0
-4,,ACE,532762.0
-5,Infrastructure,ADANIPORTS,532921.0
-6,Transport and Logistics,AEGISLOG,500003.0
-7,Computers,AFL,532774.0
-8,Transport and Logistics,ALLCARGO,532749.0
-9,Cement,AMBUJACEM,500425.0
-10,Sugar,ANDHRSUGAR,
-11,Transport and Logistics,ARSHIYA,506074.0
-12,Engineering,ARTSONEN,522134.0
-13,Mining and Minerals,ASHAPURMIN,527001.0
-14,Textiles,ASHIMASYN,514286.0
-15,Oil Drilling and Exploration,ASIANOI,530355.0
-16,Pharmaceuticals,AUROPHARMA,524804.0
-17,Automotive,BAJAJ-AUTO,532977.0
-18,Finance,BAJFINANCE,500034.0
-19,Media And Entertainment,BALAJITELE,532382.0
-20,Sugar,BALRAMCHIN,500038.0
-21,Chemicals,BASF,500042.0
-22,Pesticides And Agro Chemicals,BAYERCROP,506285.0
-23,Plantations,BBTC,501425.0
-24,Power,BFUTILITIE,532430.0
-25,Telecommunications,BHARTIAIRTL,
-26,,BI,526853.0
-27,Glass And Glass Products,BINANIIND,500059.0
-28,Couriers,BLUEDART,526612.0
-29,Auto Ancillaries,BOSCHLTD,500530.0
-30,Food Processing,BRITANNIA,500825.0
-31,Pharmaceuticals,CADILAHC,532321.0
-32,Refineries,CALSREF,526652.0
-33,Hotels,CCHHL,526550.0
-34,Plantations,CCL,519600.0
-35,Diversified,CIMMCO,505230.0
-36,Media And Entertainment,CINELINE,532807.0
-37,Pharmaceuticals,CIPLA,500087.0
-38,Personal Care,COLPAL,500830.0
-39,Transport And Logistics,CONCOR,531344.0
-40,Miscellaneous,CONFIPET,526829.0
-41,Engines,CUMMINSIND,500480.0
-42,Personal Care,DABUR,500096.0
-43,Sugar,DHARSUGAR,507442.0
-44,Media And Entertainment,DISHTV,532839.0
-45,Pharmaceuticals,DIVISLAB,532488.0
-46,Pharmaceuticals,DRREDDY,500124.0
-47,Auto,EICHERMOT,505200.0
-48,Sugar,EIDPARRY,500125.0
-49,Hotels,EIHOTEL,500840.0
-50,Textiles,ELAND,532820.0
-51,Engineering,ELECTHERM,526608.0
-52,Chemicals,ELLENBARR,590087.0
-53,Personal Care,EMAMILTD,531162.0
-54,Media And Entertainment,EROSMEDIA,533261.0
-55,Shipping,ESSARSHPNG,533704.0
-56,Pesticides And Agro Chemicals,EXCELCROP,532511.0
-57,Fertilisers,FACT,590024.0
-58,Textiles,FAZE3Q,530079.0
-59,Plastics,FIBERWEB,507910.0
-60,Retail,FRETAIL,540064.0
-61,Construction And Contracting,GAMMONIND,509550.0
-62,Chemicals,GANESHBE,500153.0
-63,Textiles,GARDENSILK,500155.0
-64,Plantations,GILLANDERS,532716.0
-65,Pharmaceuticals,GLAXO,500660.0
-66,Pharmaceuticals,GLENMARK,532296.0
-67,Personal Care,GODREJCP,532424.0
-68,Cigarettes,GOLDENTOBC,500151.0
-69,Shipping,GPPL,533248.0
-70,Food Processing,GSKCONS,500676.0
-71,Telecommunications,GTLINFRA,532775.0
-72,Lubricants,GULFOILLUB,538567.0
-73,Computers,HCLTECH,532281.0
-74,Banks,HDFC,500010.0
-75,Auto,HEROMOTOCO,500182.0
-76,Auto,HINDMOTORS,500500.0
-77,Castings And Forgings,HINDUJAFO,505982.0
-78,Personal Care,HINDUNILVR,500696.0
-79,Auto ,HMT,500191.0
-80,Chemicals,HOCL,500449.0
-81,Hotels,HOTELEELA,500193.0
-82,Telecommunications,IDEA,532822.0
-83,Banks,IDFC,532659.0
-84,Construction And Contracting,IL&FSENGG,532907.0
-85,Hotels,INDHOTEL,500850.0
-86,Miscellaneous,INDOSOLAR,533257.0
-87,Computers,INFY,500209.0
-88,Pesticides And Agro Chemicals,INSECTICID,532851.0
-89,Engineering,ISGEC,533033.0
-90,Steel ,ISMTLTD,532479.0
-91,Telecommunications,ITI,523610.0
-92,Construction And Contracting,IVRCLINFRA,530773.0
-93,Textile,JAYTEX,512233.0
-94,Transport and Logistics,JETAIRWAYS,532617.0
-95,Steel,JSL,532508.0
-96,Steel,JSWSTEEL,500228.0
-97,Power,JYOTISTRUC,513250.0
-98,Electric Equipment,KECL,533193.0
-99,Sugar,KMSUGAR,532673.0
-100,Pharmaceuticals,KREBSBIO,524518.0
-101,Textile,KSLIND,530149.0
-102,Finance,LICHSGFIN,500253.0
-103,Infrastructure,LITL,532778.0
-104,Auto,LML,500255.0
-105,Pharmaceuticals,LUPIN,500257.0
-106,Auto,M&M,500520.0
-107,Construction and Contracting,MADHUCON,531497.0
-108,Fertilisers,MADRASFERT,590134.0
-109,Personal Care,MARICO,531642.0
-110,Computers,MASTEK,523704.0
-111,Sugar,MAWANASUG,523371.0
-112,Engineering,MBECL,532629.0
-113,Plantations,MCLEODRUSS,532654.0
-114,Pesticides and Agro Chemicals,MEGH,532865.0
-115,Hotels,MHRIL,533088.0
-116,Persticides and Agro Chemicals,MONSANTO,524084.0
-117,Computers,MOSCHIP,532407.0
-118,Computers,MOSERBAER,517140.0
-119,Auto Ancillaries,MOTHERSUMI,517334.0
-120,Telecommunications,MTNL,500108.0
-121,Media and Entertainment,NDTV,532529.0
-122,Food Processing,NESTLEIND,500790.0
-123,Telecommunications,NETTLINX,511658.0
-124,Ceramics and Granite,NITCO,532722.0
-125,Computers,OFSS,532466.0
-126,Pharmaceuticals,ORCHID,
-127,Hotels,ORIENTHOT,500314.0
-128,Steel,ORISSASP,504864.0
-129,Sugar,OUDHSUG,507260.0
-130,Personal Care,PGHH,500459.0
-131,Chemicals,PIDILITIND,500331.0
-132,Breweries and Distilleries,PIONDIST,531879.0
-133,Computers,POLARIS,532254.0
-134,,POLTC,514486.0
-135,Retail,PROZONINTU,534675.0
-136,Telecommunications,QUADRANT,511116.0
-137,Telecommunications,RCOM,532712.0
-138,Sugar,RENUKA,532670.0
-139,,RICOHQ,517496.0
-140,Packaging,RMCL,532692.0
-141,Computers,ROLTA,500366.0
-142,Plantations,ROSSELLIND,533168.0
-143,Shipping,SCI,523598.0
-144,Pharmaceuticals,SHARONBIO,532908.0
-145,Media and Entertainment,SHEMAROO,538685.0
-146,Retail,SHOPERSTOP,532638.0
-147,Cement,SHREECEM,500387.0
-148,Shipping,SHREYAS,520151.0
-149,Infrastructure,SIEMENS,500550.0
-150,Transport and Logistics,SNOWMAN,538635.0
-151,Transport and Logistics,SPICEJET,500285.0
-152,Finance,SRTRANSFIN,511218.0
-153,Pharmaceuticals,SUNPHARMA,524715.0
-154,Media and Entertainment,SUNTV,532733.0
-155,Power,SUZLON,532667.0
-156,Oil Drilling and Exploration,SVOGL,522175.0
-157,Hotels,TAJGVK,532390.0
-158,Chemicals,TATACHEM,500770.0
-159,Plantations ,TATACOFFEE,532301.0
-160,Plantations ,TATAGLOBAL,500800.0
-161,Auto,TATAMOTORS,500570.0
-162,Steel,TATASTEEL,500470.0
-163,Trading,TCIIND,532262.0
-164,Computers,TCS,532540.0
-165,Computers,TECHM,532755.0
-166,Miscellaneous,TIMEX,500414.0
-167,Engineering ,TRF,505854.0
-168,Retail,TRENT,500251.0
-169,Sugar,TRIVENI,532356.0
-170,Telecommuncations,TTML,532371.0
-171,Trading,UBHOLDINGS,507458.0
-172,Breweries And Distilleries,UBL,532478.0
-173,Cement,ULTRACEMCO,532538.0
-174,Breweries And Distilleries,UNITDSPR,532432.0
-175,Chemicals,UPL,512070.0
-176,Steel,UTTAMSTL,513216.0
-177,Sugar,UTTAMSUGAR,532729.0
-178,Steel,UTTAMVALUE,500254.0
-179,Steel,VISASTEEL,532721.0
-180,Retail,VMART,534976.0
-181,Pharmaceuticals,WANBURY,524212.0
-182,Computers,WIPRO,507685.0
-183,Media And Entertainment,ZEEL,505537.0
-184,Pharmaceuticals,ZENOTECH,532039.0
+,ID,Sector,Company
+0,517140,computers,Moser Baer (India)
+1,532488,pharmaceuticals,Divis Laboratories
+2,532820,textiles,E-Land Apparel
+3,500459,personal care,Procter and Gamble Hygiene and Health Care
+4,519600,plantations,CCL Products India
+5,517496,,
+6,590087,chemicals,Ellenbarrie Industrial Gases
+7,500696,personal care,Hindustan Unilever
+8,531162,personal care,Emami
+9,532729,sugar,Uttam Sugar Mills
+10,532865,pesticides & agro chemicals,Meghmani Organics
+11,532424,personal care,Godrej Consumer Products
+12,538567,lubricants,Gulf Oil Lubricants India
+13,500038,sugar,Balrampur Chini Mills
+14,532301,plantations,Tata Coffee
+15,522175,oil drilling and exploration,SVOGL Oil Gas and Energy
+16,532721,steel,Visa Steel
+17,524715,pharmaceuticals,Sun Pharmaceutical Industries
+18,532654,plantations,Mcleod Russel (India)
+19,533193,electric equipment,Kirloskar Electric Co
+20,533257,miscellaneous,Indosolar
+21,533033,engineering,ISGEC Heavy Engineering
+22,501425,plantations,Bombay Burmah Trading Corporation
+23,500042,chemicals,BASF India
+24,500251,retail,Trent
+25,500790,food processing,Nestle India
+26,532659,finance,IDFC
+27,532673,sugar,KM Sugar Mills
+28,532851,pesticides & agro chemicals,Insecticides India
+29,500770,chemicals,Tata Chemicals
+30,532692,packaging,Radha Madhav Corporation
+31,540064,retail,Future Retail
+32,532254,computers,Polaris Consulting & Services
+33,500314,hotels,Oriental Hotels
+34,500570,auto,Tata Motors
+35,500285,transport & logistics,SpiceJet
+36,500010,finance,Housing Development Finance Corporation
+37,505982,castings & forgings,Hinduja Foundries
+38,500108,telecommunications,Mahanagar Telephone Nigam
+39,532629,engineering,Mcnally Bharat Engineering
+40,526612,couriers,Blue Dart Express
+41,532478,breweries & distilleries,United Breweries
+42,500003,transport & logistics,Aegis Logistics
+43,500387,cement,Shree Cements
+44,500850,hotels,Indian Hotels Company
+45,524372,pharmaceuticals,Orchid Pharma
+46,533261,media & entertainment,Eros International Media
+47,532908,pharmaceuticals,Sharon Bio Medicine
+48,527001,mining & minerals,Ashapura Minechem
+49,514486,,
+50,500193,hotels,Hotel Leela Venture
+51,533248,shipping,Gujarat Pipavav Port
+52,500830,personal care,Colgate Palmolive (India)
+53,500660,pharmaceuticals,GlaxoSmithKline Pharmaceuticals
+54,532511,pesticides & agro chemicals,Excel Crop Care
+55,532479,steel,ISMT
+56,506285,pesticides & agro chemicals,Bayer CropScience
+57,532321,pharmaceuticals,Cadila Healthcare
+58,523598,shipping,Shipping Corporation of India
+59,513216,steel,Uttam Galva Steel
+60,500191,auto,HMT
+61,532540,computers,Tata Consultancy Services
+62,532778,infrastructure,Lanco Infratech
+63,505200,auto,Eicher Motors
+64,532682,shipping,ABG Shipyard
+65,512233,,
+66,532281,computers,HCL Technologies
+67,532749,transport & logistics,Allcargo Logistics
+68,505230,diversified,Cimmco
+69,532774,computers,Accel Frontline
+70,538635,transport & logistics,Snowman Logistics
+71,533704,shipping,Essar Shipping
+72,500825,food processing,Britannia Industries
+73,500257,pharmaceuticals,Lupin
+74,522134,engineering,Artson Engineering
+75,500059,glass & glass products,Binani Industries
+76,532839,media & entertainment,Dish TV India
+77,532262,trading,TCI Industries
+78,524212,pharmaceuticals,Wanbury
+79,532628,computers,3i Infotech
+80,500800,plantations,Tata Global Beverage
+81,532296,pharmaceuticals,Glenmark Pharma
+82,507685,computers,Wipro
+83,531642,personal care,Marico
+84,500477,auto,Ashok Leyland
+85,500500,auto,Hindustan Motors
+86,507442,sugar,Dharani Sugars and Chemicals
+87,511116,telecommunications,Quadrant Televentures
+88,530079,,
+89,524084,pesticides & agro chemicals,Monsanto India
+90,500125,sugar,EID Parry (India)
+91,513250,power,Jyoti Structures
+92,532712,telecommunications,Reliance Communications
+93,590134,fertilisers,Madras Fertilizers
+94,500034,,
+95,500410,cement,ACC
+96,500254,steel,Uttam Value Steels
+97,532762,engineering,Action Construction Equipment
+98,526652,refineries,Cals Refineries
+99,531344,transport & logistics,Container Corporation of India
+100,532822,telecommunications,Idea Cellular
+101,523704,computers,Mastek
+102,505854,engineering,TRF
+103,530355,oil drilling and exploration,Asian Oilfield Services
+104,532371,telecommunications,Tata Teleservices (Maharashtra)
+105,506074,transport & logistics,Arshiya
+106,532617,transport & logistics,Jet Airways
+107,526829,,
+108,532667,power,Suzlon Energy
+109,532390,hotels,Taj GVK Hotels & Resorts
+110,538685,media & entertainment,Shemaroo Entertainment
+111,532466,computers,Oracle Financial Services Software
+112,531879,breweries & distilleries,Pioneer Distilleries
+113,532921,infrastructure,Adani Ports and Special Economic Zone
+114,532508,steel,Jindal Stainless
+115,500124,pharmaceuticals,Dr Reddys Laboratories
+116,514286,textiles,Ashima
+117,507458,trading,United Breweries Holdings
+118,500153,chemicals,Ganesh Benzoplast
+119,531497,construction & contracting,Madhucon Projects
+120,500550,infrastructure,Siemens
+121,520151,shipping,Shreyas Shipping
+122,500151,cigarettes,Golden Tobacco
+123,532432,,
+124,534675,retail,Prozone Intu Properties
+125,532039,pharmaceuticals,Zenotech Laboratories
+126,511218,finance,Shriram Transport Finance Corporation
+127,523371,sugar,Mawana Sugars
+128,526550,hotels,Country Club Hospitality & Holidays
+129,532356,sugar,Triveni Engineering and Industries
+130,526608,engineering,Electrotherm (India)
+131,500182,auto,Hero Motocorp
+132,505537,media & entertainment,Zee Entertainment Enterprises
+133,524804,pharmaceuticals,Aurobindo Pharma
+134,523610,telecommunications,ITI
+135,532538,cement,UltraTech Cement
+136,532382,media & entertainment,Balaji Telefilms
+137,511658,telecommunications,Nettlinx
+138,534976,retail,V-Mart Retail
+139,507910,plastics,Fiberweb India
+140,533088,hotels,Mahindra Holidays and Resorts India
+141,500209,computers,Infosys
+142,532716,plantations,Gillanders Arbuthnot & Co
+143,512070,chemicals,UPL
+144,532807,media & entertainment,Cineline India
+145,504864,steel,Orissa Sponge Iron
+146,517334,auto ancillaries,Motherson Sumi Systems
+147,532454,telecommunications,Bharti Airtel
+148,500470,steel,Tata Steel
+149,500425,cement,Ambuja Cements
+150,500840,hotels,EIH
+151,532733,media & entertainment,Sun TV Network
+152,532722,ceramics & granite,Nitco
+153,530773,construction & contracting,IVRCL
+154,532638,retail,Shoppers Stop
+155,500449,chemicals,Hindustan Organic Chemicals
+156,532775,telecommunications,GTL Infrastructure
+157,500366,computers,Rolta India
+158,500255,auto,LML
+159,500087,pharmaceuticals,Cipla
+160,500253,finance,LIC Housing Finance
+161,532670,sugar,Shree Renuka Sugars
+162,532977,auto,Bajaj Auto
+163,500096,personal care,Dabur India
+164,500480,engines,Cummins India
+165,532407,computers,Moschip Semiconductor Technology
+166,500002,infrastructure,ABB India
+167,500414,miscellaneous,Timex Group India
+168,533168,plantations,Rossell India
+169,532529,media & entertainment,New Delhi Television
+170,524518,pharmaceuticals,Krebs Biochemicals & Industries
+171,500155,textiles,Garden Silk Mills
+172,509550,construction & contracting,Gammon India
+173,500530,auto ancillaries,Bosch
+174,507260,sugar,Oudh Sugar Mills
+175,530149,textiles,KSL & Industries
+176,532755,computers,Tech Mahindra
+177,500228,steel,JSW Steel
+178,500331,chemicals,Pidilite Industries
+179,500676,food processing,GlaxoSmithKline Consumer Healthcare
+180,532430,power,BF Utilities
+181,590024,fertilisers,Fertilisers and Chemicals Travancore
